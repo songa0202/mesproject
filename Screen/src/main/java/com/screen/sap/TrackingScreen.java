@@ -58,10 +58,17 @@ public class TrackingScreen {
 		return mav;
 	}
 
-	@RequestMapping(value = "/adesktop/update.do", method = RequestMethod.GET)
+	@RequestMapping(value = "/desktop/update.do", method = RequestMethod.GET)
 	public ModelAndView update() {
 		ModelAndView mav = new ModelAndView();
 		mav.setViewName("/desktop/update");
+		return mav;
+	}
+	
+	@RequestMapping(value = "/test/test.do", method = RequestMethod.GET)
+	public ModelAndView test() {
+		ModelAndView mav = new ModelAndView();
+		mav.setViewName("/test/test");
 		return mav;
 	}
 }
