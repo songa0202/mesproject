@@ -56,7 +56,7 @@
            </div>
            <!-- login Button -->
            <div class="control-label col-md-12 col-sm-12 col-xs-12">
-            <a class="btn btn-info" style="text-shadow: none; font-size:medium;" href="report.html">Login</a>
+            <a class="btn btn-info" style="text-shadow: none; font-size:medium;" href="/sap/test.do">Login</a>
             <!--<a class="reset_pass" href="#">Lost your password?</a> -->
           </div>
 
