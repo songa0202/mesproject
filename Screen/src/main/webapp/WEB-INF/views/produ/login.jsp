@@ -20,7 +20,7 @@
  
   <!-- Custom Theme Style -->
   <!-- 2018.05.15, songyee, change css file (min->original)  -->
-  <link href="${pageContext.request.contextPath}/resources/build/css/custom.css" rel="stylesheet">
+  <link href="${pageContext.request.contextPath}/resources/build/css/custom2.css" rel="stylesheet">
 </head>
 
 <body class="login">
